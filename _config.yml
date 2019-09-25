@@ -9,11 +9,11 @@ titulo: Devfest Fsa 2019
 descricao: DEV Feira de Sanatana
 user_title:
 
-imagem: assets/background.png
-imagem_logo_principal: assets/logo.png
-imagem_logo: assets/logoicone.png
-imagem_logo_mobile: assets/logoicone2.png
-imagem_conteudo: assets/background2.png
+imagem: /assets/background.png
+imagem_logo_principal: /assets/logo.png
+imagem_logo: /assets/logoicone.png
+imagem_logo_mobile: /assets/logoicone2.png
+imagem_conteudo: /assets/background2.png
 
 link_codconduta: https://www.instagram.com/gdgfsaba/?hl=pt
 link_subpalestra: https://www.facebook.com/gdgfsaba/
