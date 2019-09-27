@@ -1,6 +1,22 @@
 <div class="user-details">
   <h1>Sobre o evento</h1>
   <p class=" text-justify">{{ site.sobre }}</p>
+  <div class="when">
+    <h3>Quando:</h3>
+    <span>
+      <strong>{{ site.when }}</strong>
+    </span>
+  </div>
+  <div class="where">
+      <h3>Onde:</h3>
+      <span>
+        <a 
+          href="https://www.google.com/maps/place/FTC+-+Faculdade+de+Tecnologia+e+Ci%C3%AAncias,+Feira+de+Santana/@-12.2468695,-38.9268951,17z/data=!4m8!1m2!2m1!1sFTC!3m4!1s0x714379ad05d23f9:0xdd45d4243737b427!8m2!3d-12.2468695!4d-38.9247064"
+          target="_blank">
+          {{ site.where }}
+        </a>
+      </span>
+  </div>
 </div>
 
 
