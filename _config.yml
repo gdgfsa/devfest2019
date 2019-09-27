@@ -16,7 +16,7 @@ imagem_logo_mobile: /assets/logoicone2.png
 imagem_conteudo: /assets/background2.png
 
 link_codconduta: https://github.com/gdgfsa/devfest2019/blob/master/CONDUTA.md
-link_subpalestra: https://www.facebook.com/gdgfsaba/
+link_subpalestra: http://abre.ai/gdgfsapalestras
 link_venda: https://www.sympla.com.br/gdg-devfest-fsa-2019__614974
 
 contato_email: gdgfsaba@gmail.com
@@ -42,9 +42,9 @@ patrocinadores:
 
 apoio:
   - us:
-    nome: Mandacaru Hackerspace
-    imagem: assets/apoio/LogoVer.png
-    link: https://www.instagram.com/mandacaruhs/
+    nome: FTC
+    imagem: assets/apoio/MARCA-FTC-SMALL.png
+    link: https://www.ftc.br/feira-de-santana/home/
   - us:
     nome: Mandacaru Hackerspace
     imagem: assets/apoio/LogoVer.png
