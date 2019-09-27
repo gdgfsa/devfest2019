@@ -55,6 +55,18 @@ apoio:
     nome: Mandacaru Hackerspace
     imagem: assets/apoio/LogoVer.png
     link: https://www.instagram.com/mandacaruhs/
+  - us:
+    nome: GDG Feira de Santana
+    imagem: assets/apoio/GDG_Feira_de_santana.png
+    link: https://www.instagram.com/gdgfsaba/?hl=pt
+  - us:
+    nome: GDG Lauro de Freitas
+    imagem: assets/apoio/GDG__Lauro_de_Freitas.png
+    link: https://pt-br.facebook.com/GdgLF/
+  - us:
+    nome: DevFSA
+    imagem: assets/apoio/devfsa_logo.png
+    link: https://devfsa.com.br/
 
 # Palestrantes
 palestrantes:
