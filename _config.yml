@@ -33,13 +33,9 @@ when: 30 de Novembro de 2019
 # Patrocinadores
 patrocinadores:
   - us:
-    nome: Mandacaru Hackerspace
-    imagem: assets/apoio/LogoVer.png
-    link: https://www.instagram.com/mandacaruhs/
-  - us:
-    nome: Mandacaru Hackerspace
-    imagem: assets/apoio/LogoVer.png
-    link: https://www.instagram.com/mandacaruhs/
+    nome: Google Developers
+    imagem: assets/patrocinio/google-developers.png
+    link: https://developers.google.com/
 # Apoio
 
 apoio:
@@ -56,13 +52,17 @@ apoio:
     imagem: assets/apoio/LogoVer.png
     link: https://www.instagram.com/mandacaruhs/
   - us:
-    nome: GDG Feira de Santana
-    imagem: assets/apoio/GDG_Feira_de_santana.png
-    link: https://www.instagram.com/gdgfsaba/?hl=pt
+    nome: GDG Salvador
+    imagem: assets/apoio/GDG_Salvador.png
+    link: https://gdgssa.github.io/
   - us:
     nome: GDG Lauro de Freitas
     imagem: assets/apoio/GDG__Lauro_de_Freitas.png
     link: https://pt-br.facebook.com/GdgLF/
+  - us:
+    nome: ProgramAda
+    imagem: assets/apoio/programadaPNG.png
+    link: https://www.facebook.com/ProgramAdaOficial/
   - us:
     nome: DevFSA
     imagem: assets/apoio/devfsa_logo.png
