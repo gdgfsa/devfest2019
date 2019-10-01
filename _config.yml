@@ -18,6 +18,7 @@ imagem_conteudo: /assets/background2.png
 link_codconduta: https://github.com/gdgfsa/devfest2019/blob/master/CONDUTA.md
 link_subpalestra: http://abre.ai/gdgfsapalestras
 link_venda: https://www.sympla.com.br/gdg-devfest-fsa-2019__614974
+link_patrocinio: http://abre.ai/gdgfsapatrocinio
 
 contato_email: gdgfsaba@gmail.com
 contato_instagram: https://www.instagram.com/gdgfsaba/?hl=pt
@@ -48,10 +49,6 @@ apoio:
     imagem: assets/apoio/ecompjr.png
     link: http://www.ecompjr.com.br/
   - us:
-    nome: Mandacaru Hackerspace
-    imagem: assets/apoio/LogoVer.png
-    link: https://www.instagram.com/mandacaruhs/
-  - us:
     nome: GDG Salvador
     imagem: assets/apoio/GDG_Salvador.png
     link: https://gdgssa.github.io/
@@ -67,6 +64,10 @@ apoio:
     nome: DevFSA
     imagem: assets/apoio/devfsa_logo.png
     link: https://devfsa.com.br/
+  - us:
+    nome: Mandacaru Hackerspace
+    imagem: assets/apoio/LogoVer.png
+    link: https://www.instagram.com/mandacaruhs/
 
 # Palestrantes
 palestrantes:
