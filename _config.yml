@@ -72,30 +72,20 @@ apoio:
 # Palestrantes
 palestrantes:
   - us:
-    nome: Marcelo Bião
-    imagem: assets/palestrantes/marcelo.png
-    vinculo: Mandacaru Hackerspace
-    texto: Sou Master das culinárias do Mandacaru Hackerspace. Faço um ótimo arroz com calabresa, mas esqueço na geladeira por uma semana. 
+    nome: Isabela Gonçalves
+    imagem: assets/palestrantes/isabela_goncalves.jpg
+    vinculo: Nubank
+    texto: Baiana morando em SP sempre desejando por sol e praia, mas curtindo essa selva de pedra e o que ela tem pra oferecer. Crossfit girl que tenta codar um pouco, acredito e defendo muito que um bom desenvolvedor vai além de codar bem, envolve muito mais :)  Além disso, Netflix addicted.
   - us:
-    nome: Sérgio Matos
-    imagem: assets/palestrantes/sergio.png
-    vinculo: Mandacaru Hackerspace
-    texto: Sou Master dos paranauês do Mandacaru Hackerspace. De vez em quando, eu esqueço de enviar a arte dos eventos.
+    nome: Elisabeth Mamede
+    imagem: assets/palestrantes/isabela_mamede.jpg
+    vinculo: Inmetrics
+    texto: Uma QA formada em Sistemas de Informação, Pós graduanda em Engenharia de Software que ama café, chocolate, viagens e Muay Thai. Organizer do GDG Uberlândia e Women Techmakers Ambassador buscando incentivar cada vez mais mulheres e minorias no mundo da tecnologia!
   - us:
-    nome: Vitor Cardim
-    imagem: assets/palestrantes/vitor.png
-    vinculo: Mandacaru Hackerspace
-    texto: Sou Master of Cards do Mandacaru Hackerspace. Comi uma pizza de 3 queijos, fui procurar o banheiro e acabei parando em Uberlândia.
-  - us:
-    nome: Leo Melo
-    imagem: assets/palestrantes/leonardo.png
-    vinculo: Mandacaru Hackerspace
-    texto: Sou Master arteiro do Mandacaru Hackerspace. Sou o maior nome representante do terraplanismo no globo. 
-  - us:
-    nome: Fábio Bispo
-    imagem: assets/palestrantes/fabio.png
-    vinculo: Mandacaru Hackerspace
-    texto: Sou CEO do Mandacaru Hackerspace. Procuro meios de invadir a conta do telegram do Ministro da Justiça. Fogo nos racistas!
+    nome: Sofia Marshallowitz
+    imagem: assets/palestrantes/sofia_marshallowitz.jpeg
+    vinculo: Lawgorithm e Legal Insight
+    texto: Pesquisadora em Direito e I.A no Lawgorithm e Cientista de Dados na Legal Insight. Uma geek por dados procurando encrencas a serem resolvidas. Cientista de dados na Legal Insights e pesquisadora em Inteligência Artificial e Data Science no Lawgorithm. Estuda Statistics and Data Science pelo MITx, tem certificações na área de Ethical Hacking, achou uma falha aí no sistema da Caixa justamente na época de sacar o FGTS (https://thehack.com.br/site-da-caixa-esquece-autenticacao-e-facilita-consulta-de-fgts-e-pis-de-terceiros/ ) é estudante de Direito pela Universidade Mackenzie e em Análise e Desenvolvimento de Sistema na FATEC. Acredita que interdisciplinaridade é tudo e possivelmente é um bot."
 
 # Google-analytics
 google-analytics:

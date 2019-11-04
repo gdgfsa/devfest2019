@@ -75,3 +75,7 @@
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
+
+.card-img-top{
+  max-height: 250px;
+}
