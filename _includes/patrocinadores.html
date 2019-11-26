@@ -1,18 +1,11 @@
 <h1 style="text-align: center">Patrocínio</h1>
 
-<div class="user">
-  {% assign f = 0 %}
+<div class="patrocinadores">
   {% for i in site.patrocinadores %}
-  {% if f == 3 %}
-</div>
-<div class="user">
-  {% assign f = 0 %}
-  {% endif %}
-  <div class="tech">
-    <a href="{{ i.link }}" target="_blank">
-      <img class="card-img-top" src="{{ i.imagem }}" alt="{{i.nome}}" style="max-height: 300px; max-width: 300px ">
-    </a>
-  </div>
-  {% assign f = f| plus: 1 %}
+    <div class="patrocinador">
+      <a href="{{ i.link }}" target="_blank">
+        <img src="{{ i.imagem }}" alt="{{i.nome}}" height="{{i.heigth}}" width="{{i.width}}">
+      </a>
+    </div>
   {% endfor %}
 </div>

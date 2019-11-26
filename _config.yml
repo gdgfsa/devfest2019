@@ -35,8 +35,23 @@ when: 30 de Novembro de 2019
 patrocinadores:
   - us:
     nome: Google Developers
-    imagem: assets/patrocinio/google-developers.png
+    imagem: assets/patrocinio/google-developers-2.png
     link: https://developers.google.com/
+  - us:
+    nome: Ad Mobilize
+    imagem: assets/patrocinio/admobilize-logo.svg
+    link: https://www.admobilize.com/
+    heigth: 350px
+    width: 350px
+  - us:
+    nome: Skilo Pay
+    imagem: assets/patrocinio/skilopay.png
+    link: https://www.skilopay.com.br/
+  - us:
+    nome: Conexa
+    imagem: assets/patrocinio/conexa.png
+    link: https://conexa.app/
+  
 # Apoio
 
 apoio:
@@ -68,6 +83,10 @@ apoio:
     nome: Mandacaru Hackerspace
     imagem: assets/apoio/LogoVer.png
     link: https://www.instagram.com/mandacaruhs/
+  - us:
+    nome: Ben Melhor
+    imagem: assets/apoio/bm2.png
+    link: https://benmelhor.com.br/
 
 # Palestrantes
 palestrantes:
